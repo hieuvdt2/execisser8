@@ -1,0 +1,18 @@
+p {
+  background-color: rgb(221, 82, 82);
+  width: 200px;
+  height: 200px;
+}
+
+span {
+  display: block;
+  width: 200px;
+  height: 200px;
+  /* padding: 1rem;
+  font-size: 1rem; */
+  font-weight: normal;
+  font-family: monospace;
+}
+a {
+  font-size: 14px;
+}
